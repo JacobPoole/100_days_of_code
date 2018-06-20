@@ -1,4 +1,4 @@
-# #100DaysOfCode Log - Round 1 - [Your Name Here]
+# #100DaysOfCode Log - Round 1 - Jacob Poole
 
 The log of my #100DaysOfCode challenge. Started on [June 16, Monday, 2018].
 
